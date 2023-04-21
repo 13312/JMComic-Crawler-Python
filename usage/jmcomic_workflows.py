@@ -12,6 +12,7 @@ jm_albums = str_to_list('''
 425134
 
 
+
 ''')
 
 # 调用jmcomic的download_album方法，下载漫画
